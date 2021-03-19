@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">uts_27628</string>
+    <string name="text_profil1">"\t"NIM: 00000027628 "\n"  Nama: Andrew Hadi "\n\t\t\t\t\t\t"Kelas: EL</string>
+    <string name="text_profil2"><b>Referensi:</b></string>
+    <string name="text_profil4">Website: "\n"elearning.umn.ac.id "\n"stackoverflow "\n"GeeksforGeeks</string>
+    <string name="text_profil5"><b>Teman:</b> "\n"Andi Koesnaedi "\n"Lemuel Lancaster "\n"Jeremy Yonathan</string>
+    <string name="text_awal1">MUSIC PLAYER</string>
+    <string name="text_login1">"\n"LOGIN "\n"MUSIC PLAYER</string>
+    <string name="text_username">Username</string>
+    <string name="text_pass">Password</string>
+    <string name="text_menu1">Profile</string>
+    <string name="text_menu2">Logout</string>
+    <string name="text_name">Andrew Hadi</string>
+    <string name="text_id">00000027628</string>
+    <string name="text_welcome">Selamat Datang!</string>
+    <string name="text_ok">OK</string>
+</resources>
